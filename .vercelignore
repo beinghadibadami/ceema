@@ -1,0 +1,6 @@
+node_modules
+.next
+tests
+tsconfig.tsbuildinfo
+public/images/*.png
+!public/images/og.png

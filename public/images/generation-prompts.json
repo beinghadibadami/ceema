@@ -1,0 +1,283 @@
+{
+  "generatedOn": "2026-10-01",
+  "assets": [
+    {
+      "filename": "bottle-500.png",
+      "path": "public/images/bottle-500.png",
+      "status": "saved",
+      "generator": "built-in image_gen",
+      "transparentBackground": true,
+      "prompt": "Use case: product-mockup. Asset type: ecommerce product cutout. Create a photoreal premium 500ml coconut oil bottle, upright full bottle front view, perfectly centered, softly squared clear cylindrical PET body with rounded shoulders, pale almost clear coconut oil inside, deep teal ribbed screw cap. A wide completely BLANK pale aqua wraparound front label, taking middle 55 percent bottle height. No text, no logos, no lettering, no graphics on label. Transparent background with actual alpha, isolated object, soft natural sunlit commercial beauty product photography, realistic plastic and gentle highlights. Portrait 2:3 composition with comfortable transparent margins. Bottle dominates frame, front label flat to camera. No props, no hands, no backdrop."
+    },
+    {
+      "filename": "hero-splash.png",
+      "path": "public/images/hero-splash.png",
+      "status": "saved",
+      "generator": "built-in image_gen",
+      "transparentBackground": false,
+      "prompt": "Use case: ads-marketing. Asset type: wide website hero photograph. Use image 1 as the exact reference bottle: same shape, deep teal ribbed cap, pale clear oil, completely blank pale-aqua label. Create a spectacular high-end tropical product campaign photograph. Wide 3:2 landscape composition, flat sky turquoise #8FE3E1 background. Upright front-facing reference bottle placed at 67 percent width, emerging between two freshly cracked brown coconut halves with white flesh. Dramatic crystalline water splash arcs behind and around the bottle, frozen sparkling droplets, sunlit photoreal plastic and coconut husk texture. Bottle label remains blank and faces camera directly. Arrangement concentrated in right 65 percent, left 35 percent calm turquoise for HTML headline. Full bottle visible, bottle bottom at 88 percent image height, cap at 14 percent height. No text, no logo, no letters, no watermark. Brilliant natural sunlight, editorial beauty campaign polish."
+    },
+    {
+      "filename": "ingredient-story.png",
+      "path": "public/images/ingredient-story.png",
+      "status": "saved",
+      "generator": "built-in image_gen",
+      "transparentBackground": false,
+      "prompt": "Use case: photorealistic-natural. Asset type: premium hair oil ingredient editorial. Top-down still life of freshly cracked brown coconut halves and irregular white coconut pieces in shallow perfectly clear water on pale turquoise surface, gentle caustics, crisp sunlit natural texture, one small green palm frond in corner, artful sparse arrangement. Square 1:1 photograph, premium tropical editorial beauty campaign, no bottle, no text, no logo."
+    },
+    {
+      "filename": "lifestyle.png",
+      "path": "public/images/lifestyle.png",
+      "status": "saved",
+      "generator": "built-in image_gen",
+      "transparentBackground": false,
+      "prompt": "Use case: product-mockup. Asset type: product gallery lifestyle. Image 1 is exact reference bottle, preserve bottle shape cap and blank aqua label. Photo of bottle upright on pale limestone bathroom ledge with folded cream towel and coconut half, soft palm-leaf shadow on turquoise wall, natural tropical morning sun, editorial beauty campaign. Square composition, bottle centered, full bottle visible and label facing camera, no text, no logo."
+    },
+    {
+      "filename": "in-use.png",
+      "path": "public/images/in-use.png",
+      "status": "saved",
+      "generator": "built-in image_gen",
+      "transparentBackground": false,
+      "prompt": "Use case: photorealistic-natural. Asset type: product gallery application photo. Image 1 is reference bottle: keep clear body pale oil deep teal ribbed cap and blank aqua label. Close editorial photograph of Indian adult woman's hands: one hand holding reference bottle gently tilted to pour a small clear drop of oil into other cupped palm. Cap removed sitting on pale turquoise ledge, warm brown skin natural texture, soft sunlit bathroom, soft aqua backdrop, no face required. Square crop, coherent realistic hands, product bottle visible, no text or logos."
+    },
+    {
+      "filename": "hair-01.png",
+      "path": "public/images/hair-01.png",
+      "status": "saved",
+      "generator": "built-in image_gen",
+      "transparentBackground": false,
+      "prompt": "Use case: photorealistic-natural. Asset type: fictional placeholder hair gallery portrait. Natural editorial photograph of Indian adult woman with waist-length naturally straight glossy black hair, back view, white linen blouse, pale cream courtyard. Hair is the main subject, framing from above crown to mid-torso with complete hair visible, portrait 2:3 composition. Realistic diverse Indian adult, natural light, authentic hair texture with a few flyaways, healthy natural sheen, not artificially perfect, subtly warm daylight, relaxed candid home portrait. No before-after treatment, no words, no text, no logos, no watermark."
+    },
+    {
+      "filename": "hair-02.png",
+      "path": "public/images/hair-02.png",
+      "status": "saved",
+      "generator": "built-in image_gen",
+      "transparentBackground": false,
+      "prompt": "Use case: photorealistic-natural. Asset type: fictional placeholder hair gallery portrait. Natural editorial photograph of Indian adult woman with long loose black waves reaching mid-back, back view, soft sage cotton blouse, sunlit home. Hair is the main subject, framing from above crown to mid-torso with complete hair visible, portrait 2:3 composition. Realistic diverse Indian adult, natural light, authentic hair texture with a few flyaways, healthy natural sheen, not artificially perfect, subtly warm daylight, relaxed candid home portrait. No before-after treatment, no words, no text, no logos, no watermark."
+    },
+    {
+      "filename": "hair-03.png",
+      "path": "public/images/hair-03.png",
+      "status": "saved",
+      "generator": "built-in image_gen",
+      "transparentBackground": false,
+      "prompt": "Use case: photorealistic-natural. Asset type: fictional placeholder hair gallery portrait. Natural editorial photograph of Indian adult woman with voluminous shoulder-length natural dark curls, back three-quarter view, rust linen top, pale neutral wall. Hair is the main subject, framing from above crown to mid-torso with complete hair visible, portrait 2:3 composition. Realistic diverse Indian adult, natural light, authentic hair texture with a few flyaways, healthy natural sheen, not artificially perfect, subtly warm daylight, relaxed candid home portrait. No before-after treatment, no words, no text, no logos, no watermark."
+    },
+    {
+      "filename": "hair-04.png",
+      "path": "public/images/hair-04.png",
+      "status": "saved",
+      "generator": "built-in image_gen",
+      "transparentBackground": false,
+      "prompt": "Use case: photorealistic-natural. Asset type: fictional placeholder hair gallery portrait. Natural editorial photograph of Indian adult man with short wavy black hair, back three-quarter view, muted teal shirt, outdoor leafy garden. Hair is the main subject, framing from above crown to mid-torso with complete hair visible, portrait 2:3 composition. Realistic diverse Indian adult, natural light, authentic hair texture with a few flyaways, healthy natural sheen, not artificially perfect, subtly warm daylight, relaxed candid home portrait. No before-after treatment, no words, no text, no logos, no watermark."
+    },
+    {
+      "filename": "hair-05.png",
+      "path": "public/images/hair-05.png",
+      "status": "saved",
+      "generator": "built-in image_gen",
+      "transparentBackground": false,
+      "prompt": "Use case: photorealistic-natural. Asset type: fictional placeholder hair gallery portrait. Natural editorial photograph of Indian adult woman with straight dark brown shoulder-length blunt bob, back view, cream shirt, sunlit beige bedroom. Hair is the main subject, framing from above crown to mid-torso with complete hair visible, portrait 2:3 composition. Realistic diverse Indian adult, natural light, authentic hair texture with a few flyaways, healthy natural sheen, not artificially perfect, subtly warm daylight, relaxed candid home portrait. No before-after treatment, no words, no text, no logos, no watermark."
+    },
+    {
+      "filename": "hair-06.png",
+      "path": "public/images/hair-06.png",
+      "status": "saved",
+      "generator": "built-in image_gen",
+      "transparentBackground": false,
+      "prompt": "Use case: photorealistic-natural. Asset type: fictional placeholder hair gallery portrait. Natural editorial photograph of Indian adult woman with long thick tight black curls, back view, soft terracotta shirt, bright simple apartment. Hair is the main subject, framing from above crown to mid-torso with complete hair visible, portrait 2:3 composition. Realistic diverse Indian adult, natural light, authentic hair texture with a few flyaways, healthy natural sheen, not artificially perfect, subtly warm daylight, relaxed candid home portrait. No before-after treatment, no words, no text, no logos, no watermark."
+    },
+    {
+      "filename": "hair-07.png",
+      "path": "public/images/hair-07.png",
+      "status": "saved",
+      "generator": "built-in image_gen",
+      "transparentBackground": false,
+      "prompt": "Use case: photorealistic-natural. Asset type: fictional placeholder hair gallery portrait. Natural editorial photograph of Indian mature adult woman with long salt-and-pepper braid, back three-quarter view, pale blue cotton sari, sunlit courtyard. Hair is the main subject, framing from above crown to mid-torso with complete hair visible, portrait 2:3 composition. Realistic diverse Indian adult, natural light, authentic hair texture with a few flyaways, healthy natural sheen, not artificially perfect, subtly warm daylight, relaxed candid home portrait. No before-after treatment, no words, no text, no logos, no watermark."
+    },
+    {
+      "filename": "hair-08.png",
+      "path": "public/images/hair-08.png",
+      "status": "saved",
+      "generator": "built-in image_gen",
+      "transparentBackground": false,
+      "prompt": "Use case: photorealistic-natural. Asset type: fictional placeholder hair gallery portrait. Natural editorial photograph of Indian adult woman with long straight black hair to lower back, back view, dusty pink cotton blouse, neutral stone terrace. Hair is the main subject, framing from above crown to mid-torso with complete hair visible, portrait 2:3 composition. Realistic diverse Indian adult, natural light, authentic hair texture with a few flyaways, healthy natural sheen, not artificially perfect, subtly warm daylight, relaxed candid home portrait. No before-after treatment, no words, no text, no logos, no watermark."
+    },
+    {
+      "filename": "hair-09.png",
+      "path": "public/images/hair-09.png",
+      "status": "saved",
+      "generator": "built-in image_gen",
+      "transparentBackground": false,
+      "prompt": "Use case: photorealistic-natural. Asset type: fictional placeholder hair gallery portrait. Natural editorial photograph of Indian adult man with medium-length loose dark curls to nape, rear view, off-white shirt, warm softly blurred home. Hair is the main subject, framing from above crown to mid-torso with complete hair visible, portrait 2:3 composition. Realistic diverse Indian adult, natural light, authentic hair texture with a few flyaways, healthy natural sheen, not artificially perfect, subtly warm daylight, relaxed candid home portrait. No before-after treatment, no words, no text, no logos, no watermark."
+    },
+    {
+      "filename": "hair-10.png",
+      "path": "public/images/hair-10.png",
+      "status": "saved",
+      "generator": "built-in image_gen",
+      "transparentBackground": false,
+      "prompt": "Use case: photorealistic-natural. Asset type: fictional placeholder hair gallery portrait. Natural editorial photograph of Indian adult woman with shoulder-length black wavy hair, back three-quarter view, pale lilac shirt, turquoise wall. Hair is the main subject, framing from above crown to mid-torso with complete hair visible, portrait 2:3 composition. Realistic diverse Indian adult, natural light, authentic hair texture with a few flyaways, healthy natural sheen, not artificially perfect, subtly warm daylight, relaxed candid home portrait. No before-after treatment, no words, no text, no logos, no watermark."
+    },
+    {
+      "filename": "hair-11.png",
+      "path": "public/images/hair-11.png",
+      "status": "saved",
+      "generator": "built-in image_gen",
+      "transparentBackground": false,
+      "prompt": "Use case: photorealistic-natural. Asset type: fictional placeholder hair gallery portrait. Natural editorial photograph of Indian adult woman with very thick long black hair in a single natural braid, rear view, cream kurta, dappled garden. Hair is the main subject, framing from above crown to mid-torso with complete hair visible, portrait 2:3 composition. Realistic diverse Indian adult, natural light, authentic hair texture with a few flyaways, healthy natural sheen, not artificially perfect, subtly warm daylight, relaxed candid home portrait. No before-after treatment, no words, no text, no logos, no watermark."
+    },
+    {
+      "filename": "hair-12.png",
+      "path": "public/images/hair-12.png",
+      "status": "saved",
+      "generator": "built-in image_gen",
+      "transparentBackground": false,
+      "prompt": "Use case: photorealistic-natural. Asset type: fictional placeholder hair gallery portrait. Natural editorial photograph of Indian adult woman with long dark brown cascading waves, rear view, light olive linen top, bright pale stone home. Hair is the main subject, framing from above crown to mid-torso with complete hair visible, portrait 2:3 composition. Realistic diverse Indian adult, natural light, authentic hair texture with a few flyaways, healthy natural sheen, not artificially perfect, subtly warm daylight, relaxed candid home portrait. No before-after treatment, no words, no text, no logos, no watermark."
+    },
+    {
+      "filename": "review-video-01.png",
+      "path": "public/images/review-video-01.png",
+      "status": "saved",
+      "generator": "built-in image_gen",
+      "transparentBackground": false,
+      "prompt": "Use case: photorealistic-natural. Asset type: fictional placeholder video review thumbnail. Portrait 2:3 realistic casual smartphone-style still of Indian adult woman in her late twenties with long wavy black hair, warm medium brown skin, wearing a white linen blouse, seated by sunny home window with a plant, relaxed friendly smile. Looking directly at camera, upper body visible, one hand casually holding a small clear coconut oil bottle at chest level, deep teal ribbed cap, pale clear oil, completely blank aqua label. Image 1 is reference bottle. Warm natural daylight, believable skin texture and casual pose, polished yet authentic, varied home setting. No text, no logo, no play icon, no interface, no watermark."
+    },
+    {
+      "filename": "review-video-02.png",
+      "path": "public/images/review-video-02.png",
+      "status": "saved",
+      "generator": "built-in image_gen",
+      "transparentBackground": false,
+      "prompt": "Use case: photorealistic-natural. Asset type: fictional placeholder video review thumbnail. Portrait 2:3 realistic casual smartphone-style still of Indian adult woman in her early forties with thick shoulder length dark curls, deep brown skin, wearing a muted terracotta kurta, seated in softly lit warm cream living room, natural candid smile. Looking directly at camera, upper body visible, one hand casually holding a small clear coconut oil bottle at chest level, deep teal ribbed cap, pale clear oil, completely blank aqua label. Image 1 is reference bottle. Warm natural daylight, believable skin texture and casual pose, polished yet authentic, varied home setting. No text, no logo, no play icon, no interface, no watermark."
+    },
+    {
+      "filename": "review-video-03.png",
+      "path": "public/images/review-video-03.png",
+      "status": "saved",
+      "generator": "built-in image_gen",
+      "transparentBackground": false,
+      "prompt": "Use case: photorealistic-natural. Asset type: fictional placeholder video review thumbnail. Portrait 2:3 realistic casual smartphone-style still of Indian adult man in his thirties with short wavy black hair and neatly trimmed beard, wearing soft sage linen shirt, seated on shaded home balcony with greenery, friendly open expression. Looking directly at camera, upper body visible, one hand casually holding a small clear coconut oil bottle at chest level, deep teal ribbed cap, pale clear oil, completely blank aqua label. Image 1 is reference bottle. Warm natural daylight, believable skin texture and casual pose, polished yet authentic, varied home setting. No text, no logo, no play icon, no interface, no watermark."
+    },
+    {
+      "filename": "bottle-1000.png",
+      "path": "public/images/bottle-1000.png",
+      "status": "saved",
+      "generator": "built-in image_gen",
+      "transparentBackground": true,
+      "prompt": "Use case: product-mockup. Asset type: 1 litre product cutout. Image 1 reference canonical 500ml bottle. Create its clearly larger 1000ml family-size sibling, same materials and design language, clear softly squared cylindrical plastic body with rounded shoulders, pale clear coconut oil, same deep teal ribbed screw cap. A broader stockier bottle than reference, wide completely blank pale aqua label in middle 55 percent body height, upright full bottle centered front view, flat label facing camera. 2:3 portrait, actual transparent background, soft premium sunlight, no text no logo no props."
+    },
+    {
+      "filename": "gallery-back.png",
+      "path": "public/images/gallery-back.png",
+      "status": "saved",
+      "generator": "built-in image_gen",
+      "transparentBackground": false,
+      "prompt": "Use case: product-mockup. Asset type: product gallery back view. Image 1 canonical bottle reference. Photograph same bottle from directly behind, upright full bottle, deep teal ribbed cap, pale clear coconut oil. Pale aqua blank back label with subtly visible wraparound seam near right edge. Label is completely blank with no text no barcode no decoration for later design. Centered full bottle on very pale aqua seamless studio background, soft premium sunlight and subtle contact shadow. Square image. Preserve reference proportions."
+    },
+    {
+      "filename": "gallery-label.png",
+      "path": "public/images/gallery-label.png",
+      "status": "saved",
+      "generator": "built-in image_gen",
+      "transparentBackground": false,
+      "prompt": "Use case: product-mockup. Asset type: product gallery label detail macro photo. Image 1 exact bottle reference. Tight macro photograph of midsection front label of same clear coconut oil bottle. Pale aqua label flat facing camera dominates center of image, showing paper texture, with narrow clear bottle edges left and right, small shoulder portion above and oil below. Square image on pale aqua studio background, high-end soft sunlight, detailed materials. Entire label is completely blank with no text no logo no graphics, will be typeset later. Label fills about 76 percent image width and 70 percent image height."
+    }
+  ],
+  "pending": [
+    {
+      "filename": "size-comparison.png",
+      "status": "not generated; stopped for handoff",
+      "prompt": "Use case: product-mockup. Asset type: product size comparison photograph. Image 1 canonical 500ml bottle reference. Two matching bottles side by side upright on very pale aqua studio background: 500ml reference bottle at left and its larger wider taller 1000ml sibling at right. Same clear softly squared cylindrical plastic body, pale clear coconut oil, deep teal ribbed caps, entirely blank pale aqua labels. Front views with labels flat facing camera. Both full bottles visible, baseline aligned at 90 percent height, small bottle cap at 28 percent height and large bottle cap at 10 percent height. Square composition, generous space between bottles. High-end sunlit studio photograph with subtle shadows, no text no logo no props.",
+      "reference": "bottle-500.png"
+    },
+    {
+      "filename": "hero-start.png",
+      "status": "not generated; stopped for handoff",
+      "prompt": "Use case: ads-marketing. Asset type: first frame of website hero concept video. Image 1 is final target hero frame and style reference. Preserve exact same wide 3:2 camera angle, aqua turquoise backdrop, sunlight, reflective shallow water floor, and right centered arrangement. Beginning scene: one intact whole brown coconut sits in shallow calm turquoise water at 68 percent image width, bottom at 88 percent image height. NO bottle, no product, no cap, no label anywhere. Coconut is fully closed, unbroken. Calm gentle ripples only, no splash. Empty clean turquoise upper area and left 35 percent for page copy. Photorealistic tropical product campaign, no text no logo.",
+      "reference": "hero-splash.png"
+    },
+    {
+      "filename": "hero-mid.png",
+      "status": "not generated; stopped for handoff",
+      "prompt": "Use case: ads-marketing. Asset type: middle frame of website hero concept video. Image 1 is exact final hero scene reference. Preserve same wide 3:2 camera, same turquoise backdrop and lighting. Middle moment: brown coconut has cracked into two halves opening apart near bottom right area and SAME reference clear bottle with teal ribbed cap and completely blank aqua label is emerging upward between them. Bottle only half as high in frame as final image, cap at 48 percent height and bottom at 90 percent height. Moderate low crystalline splash, less than final hero. Arrangement at 68 percent width, calm left 35 percent turquoise. Bright sunlight photoreal product campaign. No words, no logos, no lettering.",
+      "reference": "hero-splash.png"
+    }
+  ],
+  "labelRegions": {
+    "bottle-500.png": {
+      "image": [
+        1024,
+        1536
+      ],
+      "box": [
+        271,
+        547,
+        754,
+        1186
+      ]
+    },
+    "hero-splash.png": {
+      "image": [
+        1536,
+        1024
+      ],
+      "box": [
+        912,
+        390,
+        1208,
+        765
+      ]
+    },
+    "lifestyle.png": {
+      "image": [
+        1254,
+        1254
+      ],
+      "box": [
+        455,
+        445,
+        789,
+        889
+      ]
+    },
+    "bottle-1000.png": {
+      "image": [
+        1024,
+        1536
+      ],
+      "box": [
+        206,
+        530,
+        817,
+        1200
+      ]
+    },
+    "gallery-back.png": {
+      "image": [
+        1254,
+        1254
+      ],
+      "box": [
+        435,
+        428,
+        790,
+        930
+      ]
+    },
+    "gallery-label.png": {
+      "image": [
+        1254,
+        1254
+      ],
+      "box": [
+        175,
+        113,
+        1078,
+        1078
+      ]
+    }
+  }
+}
