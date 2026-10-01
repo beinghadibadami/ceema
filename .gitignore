@@ -6,3 +6,7 @@ node_modules/
 test-results/
 playwright-report/
 .vercel/
+
+# Keep source PNG files out of git - we only deploy WebP
+public/images/*.png
+!public/images/og.png
